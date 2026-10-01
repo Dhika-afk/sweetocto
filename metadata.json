@@ -1,0 +1,6 @@
+{
+  "name": "October — A Little World For You",
+  "description": "An interactive romantic miniature world crafted for October 1st, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
